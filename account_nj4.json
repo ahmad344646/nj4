@@ -1,0 +1,56 @@
+[
+  {
+    "name": "SESSIONID",
+    "value": "hg2i7evf2alru0cq40t8o5lct2",
+    "domain": ".delionix.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "newprov_png",
+    "value": "60e2e03ddac385c0ac5f90e5befb2e61",
+    "domain": "delionix.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "newprov_etag",
+    "value": "60e2e03ddac385c0ac5f90e5befb2e61",
+    "domain": "delionix.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "newprov_cache",
+    "value": "60e2e03ddac385c0ac5f90e5befb2e61",
+    "domain": "delionix.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "menu_ref",
+    "value": "60e2e03ddac385c0ac5f90e5befb2e61",
+    "domain": "delionix.com",
+    "path": "/",
+    "expires": 1742819859.254616,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "vblock1",
+    "value": "1",
+    "domain": "delionix.com",
+    "path": "/",
+    "expires": 1710837461,
+    "httpOnly": false,
+    "secure": false
+  }
+]
